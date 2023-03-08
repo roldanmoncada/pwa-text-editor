@@ -48,11 +48,22 @@ Mock-Up
 ```
 
 ## Screenshots:
-PLACEHOLDER
+Here are a couple of screenshot of the main page of the app when deployed in Heroku:
 
+![image](https://user-images.githubusercontent.com/112277445/223842647-5f9784b4-23de-4473-9b19-e282fc8a53c4.png)
+
+![image](https://user-images.githubusercontent.com/112277445/223844632-f4b46075-7841-41e3-9576-36fece2bc64b.png)
+
+This screenshot demonstrates the alert that pops up when you click "Install":
+
+![image](https://user-images.githubusercontent.com/112277445/223844977-2ee8135d-9fa3-450f-bbab-fb967c9e0eef.png)
+
+And finally, here is a screenshot of the installed app!
+
+![image](https://user-images.githubusercontent.com/112277445/223845524-5cc2f839-88db-4d48-893a-60ecff21c066.png)
 
 ## Deployment Links:
 
 Here is a link to my GitHub [repo!](https://github.com/roldanmoncada/pwa-text-editor)
 
-Here is the link to the Heroku [deployed app!](https://drive.google.com/file/d/1EFDHJbnVMPCEnawpLevgUwN2Voj6VAhG/view)
+Here is the link to the Heroku [deployed app!](https://pwa-text-editor-heroku.herokuapp.com/)
